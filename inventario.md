@@ -1,8 +1,8 @@
-espada: *espada do dragão*
+espada: *Permita-se*
 
-elmo: *elmo do capiroto*
+elmo: *boné aba reta*
 
-bag: 
+bag:
 
-    - 50 gold
-    - medicinal herb
+    - 1 cd Justin Bieber
+    - Ingresso para Guerra Civil (#TeamIron)
